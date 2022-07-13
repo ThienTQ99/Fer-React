@@ -23,6 +23,9 @@ class Dishdetail extends Component {
 
 
 
+
+
+
       </Card>
     );
   }
