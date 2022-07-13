@@ -20,6 +20,11 @@ class Dishdetail extends Component {
           </CardTitle>
           <CardText>{this.props.dish.description} </CardText>
         </CardBody>
+
+
+
+
+        
       </Card>
     );
   }
